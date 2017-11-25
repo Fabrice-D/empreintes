@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>860</integer>
+	<key>capHeight</key>
+	<integer>860</integer>
+	<key>codePageRanges</key>
+	<array>
+		<integer>1252</integer>
+	</array>
+	<key>copyright</key>
+	<string>SIL Open Font License</string>
+	<key>descender</key>
+	<integer>-276</integer>
+	<key>familyName</key>
+	<string>Typeface</string>
+	<key>license</key>
+	<string>SIL Open Font License</string>
+	<key>licenseURL</key>
+	<string>http://scripts.sil.org/OFL</string>
+	<key>openTypeHeadCreated</key>
+	<string>2017/11/25 21:36:10</string>
+	<key>openTypeHheaAscender</key>
+	<integer>860</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>-276</integer>
+	<key>openTypeNameDescription</key>
+	<string></string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Typeface</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Regular</string>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>860</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-276</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>100</integer>
+	<key>openTypeOS2VendorID</key>
+	<string>Bird</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>860</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>276</integer>
+	<key>panose</key>
+	<array>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
+	<key>postscriptBlueValues</key>
+	<array>
+	</array>
+	<key>postscriptFontName</key>
+	<string>Typeface-Regular</string>
+	<key>postscriptOtherBlues</key>
+	<array>
+	</array>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-2</integer>
+	<key>postscriptUnderlineThickness</key>
+	<integer>1</integer>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>unicodeRanges</key>
+	<array>
+		<integer>0</integer>
+	</array>
+	<key>unitsPerEm</key>
+	<integer>1024</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
+	<key>xHeight</key>
+	<integer>573</integer>
+</dict>
+</plist>
